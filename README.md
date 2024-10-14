@@ -3,19 +3,22 @@
 
 ⭐️ Your star shines on us. Star us on GitHub!
 
-The versions:
-to do
+## The related software versions:
+Python 3.9
 
-Data:
-to do
+* mmcv 1.5.0 
+* torch 1.10.0 + cu113 
 
-How to train:
-to do 
+## Data:
+as show in file **data precess**
 
-NOTE：
-to do 
+## How to train:
+* to do
 
-path need to
+## NOTE：
+* to do
 
-It is trained in windows, not Linux. If you want, there may be have some changes.
+* path need to
+
+* It is trained in windows, not Linux. If you want, there may be have some changes.
 
