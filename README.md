@@ -10,10 +10,15 @@ Python 3.9
 * torch 1.10.0 + cu113 
 
 ## Data:
-as show in file **data precess**
+As show in file **data process**
+* xxx:used to process CK+ dataset.
+* yyy:used to process Oulu-CASIA dataset.
 
 ## How to train:
-* to do
+As show in file **tools**
+* my_train_10_fold.py:used to train the single-stream model.
+* my_train_multiflow.py:used to train the multi-stream model.
+* test.py:used to test the given model.
 
 ## NOTE：
 * to do
