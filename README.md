@@ -11,19 +11,29 @@ Python 3.9
 
 ## Data:
 As show in file **data process**
-* xxx:  used to process CK+ dataset.
-* yyy:  used to process Oulu-CASIA dataset.
+* xxx:
+  
+  used to process the CK+ dataset.
+* yyy:
+  
+  used to process the Oulu-CASIA dataset.
 
 ## How to train:
 As show in file **tools**
-* my_train_10_fold.py:  used to train the single-stream model.
-* my_train_multiflow.py:  used to train the multi-stream model.
-* test.py:  used to test the given model.
+* my_train_10_fold.py:
+
+  used to train the single-stream model.
+* my_train_multiflow.py:
+  
+  used to train the multi-stream model.
+* test.py:
+  
+  used to test the given model.
 
 ## NOTE：
 * to do
 
-* path need to
+* Some path may need to be modified to match your computer.
 
-* It is trained in windows, not Linux. If you want, there may be have some changes.
+* All the codes are used in **windows**. So if you want to run it in Linux, there may have some changes.
 
