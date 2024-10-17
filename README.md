@@ -1,8 +1,9 @@
 # Landmark-Based-Adaptive-Graph-Convolutional-Network for Facial Expression Recognitio
+⭐️ Your star shines on us. Star us on GitHub!
+
 ⭐️ Our LBAGCN is published in https://ieeexplore.ieee.org/abstract/document/10683688
 ![image](https://github.com/user-attachments/assets/e29b22f9-a13b-48b7-8cfe-e818b579c2dc)
 
-⭐️ Your star shines on us. Star us on GitHub!
 
 ## The related software versions:
 Python 3.9
