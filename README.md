@@ -12,13 +12,16 @@ Python 3.9
 * torch 1.10.0 + cu113 
 
 ## Data:
-As show in file **data process**
-* xxx:
+As show in file **data_process**
+* ck+\\make_ck+_10_fold.py:
   
-  used to process the CK+ dataset.
-* yyy:
+  used to build the training and testing datasets(10 fold) for CK+ dataset.
+* oulu\\track_face.py:
+
+  used to get the landmarks from the image in Oulu-CASIA dataset
+* oulu\\make_oulu_10_fold.py
   
-  used to process the Oulu-CASIA dataset.
+  used to build the 10 fold training datasets(10 fold) for Oulu-CASIA dataset.
 
 ## How to train:
 As show in file **tools**
