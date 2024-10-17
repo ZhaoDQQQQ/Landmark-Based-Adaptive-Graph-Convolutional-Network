@@ -20,6 +20,8 @@ As show in file **data process**
 
 ## How to train:
 As show in file **tools**
+
+(there use the Oulu-CASIA dataset as an example)
 * my_train_10_fold.py:
 
   used to train the single-stream model.
@@ -31,9 +33,12 @@ As show in file **tools**
   used to test the given model.
 
 ## NOTE：
-* to do
-
 * Some path may need to be modified to match your computer.
 
 * All the codes are used in **windows**. So if you want to run it in Linux, there may have some changes.
+
+## Acknowledgments
+This project is based on the following codebase.
+
+[pyskl](https://github.com/kennymckormick/pyskl])
 
