@@ -9,9 +9,10 @@
 Python 3.9
 
 * mmcv 1.5.0 
-* torch 1.10.0 + cu113 
+* torch 1.10.0 + cu113
+* dlib 19.23.0
 
-## Data:
+## Data preparation:
 As show in file **data_process**
 * ck+\\make_ck+_10_fold.py:
   
@@ -21,7 +22,7 @@ As show in file **data_process**
   used to get the landmarks from the image in Oulu-CASIA dataset
 * oulu\\make_oulu_10_fold.py
   
-  used to build the 10 fold training datasets(10 fold) for Oulu-CASIA dataset.
+  used to build the training and testing datasets(10 fold) for Oulu-CASIA dataset.
 
 ## How to train:
 As show in file **tools**
@@ -38,6 +39,8 @@ As show in file **tools**
   used to test the given model.
 
 ## NOTE：
+* The format of the dataset is the same as it in [pyskl](https://github.com/kennymckormick/pyskl]).
+  
 * Some path may need to be modified to match your computer.
 
 * All the codes are used in **windows**. So if you want to run it in Linux, there may have some changes.
